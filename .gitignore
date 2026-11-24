@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Generated reports
+*.pdf
+
+# Editor
+.vscode/
+.idea/
